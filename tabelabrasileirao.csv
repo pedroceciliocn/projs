@@ -1,0 +1,21 @@
+"equipe","posição","PD","V","E","D","GM","GS","Pts","stringAsFactor"
+"Santos",1,15,10,2,3,25,14,32,FALSE
+"Flamengo",2,15,9,3,3,32,18,30,FALSE
+"Palmeiras",3,15,8,6,1,24,10,30,FALSE
+"São Paulo",4,15,8,6,1,20,9,30,FALSE
+"Atlético",5,15,8,3,5,22,17,27,FALSE
+"Corinthians",6,15,7,6,2,17,8,27,FALSE
+"Internacional",7,15,7,3,5,17,12,24,FALSE
+"Bahia",8,15,6,6,4,18,15,24,FALSE
+"Athletico",9,15,7,1,7,22,15,22,FALSE
+"Botafogo",10,15,7,1,7,14,15,22,FALSE
+"Ceará",11,15,6,2,7,19,14,20,FALSE
+"Goiás",12,15,5,3,7,14,24,18,FALSE
+"Grêmio",13,15,4,6,5,18,20,18,FALSE
+"Fortaleza",14,15,5,2,8,16,21,17,FALSE
+"Vasco",15,15,4,5,6,14,22,17,FALSE
+"Cruzeiro",16,15,3,5,7,13,22,14,FALSE
+"Chapeoense",17,15,3,4,8,16,27,13,FALSE
+"Fluminense",18,15,3,3,9,19,25,12,FALSE
+"CSA",19,15,2,5,8,4,22,11,FALSE
+"Avaí",20,15,0,6,9,7,21,6,FALSE
